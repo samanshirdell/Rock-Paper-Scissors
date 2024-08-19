@@ -16,7 +16,7 @@ Welcome to the **Rock, Paper, Scissors** game! This is a simple command-line imp
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3.12
 
 ### Installation
 
